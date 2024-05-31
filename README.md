@@ -229,4 +229,4 @@ If you try to interact with your bot from another account, you’ll get the the 
   | Abdur Rahman | [GitHub](https://github.com/ab0rahman) | [Email](mailto:letsmail.him@gmail.com) | 
   | Shayam Kumar | [Github]() | [Email](mailto:) | 
   | N.V.S.L Srija  | [GitHub]() | [Email](mailto:) | 
-  | N pravallika | [Github]() | [Email](mailto:narsupallipravallika.20.it@anits.edu.in) |  
+  | N pravallika | [Github](https://github.com/NarsupalliPravallika) | [Email](mailto:narsupallipravallika.20.it@anits.edu.in) |  
