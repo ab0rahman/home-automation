@@ -1,11 +1,7 @@
 
 # Home Automation using Telegram bot
 
-
-
 ## How the Code Works:
-
-
 
 ## Installation
 
@@ -193,6 +189,10 @@ In the loop(), check for new messages every second.
     }
     }
 ```
+<img src="https://github.com/ab0rahman/home-automation/blob/main/images/image10.jpg?raw=true" width="500" height="auto">
+<img src="https://github.com/ab0rahman/home-automation/blob/main/images/image21.jpg?raw=true" width="500" height="auto">
+
+
 ## RESULTS
 After uploading the code, press the ESP32/ESP8266 on-board EN/RST button so that it starts running the code. Then, you can open the Serial Monitor to check what’s happening in the background.
 
@@ -206,12 +206,25 @@ Go to your Telegram account and open a conversation with your bot. Send the foll
 
     /state requests the current LED state.
 ```
+<img src="https://github.com/ab0rahman/home-automation/blob/main/images/image20.png?raw=true" width="300" height="auto">
 
 The on-board LED should turn on and turn off accordingly (the ESP8266 on-board LED works in reverse, it’s off when you send /led_on and on when you send /led_off).
 
+<img src="https://github.com/ab0rahman/home-automation/blob/main/images/image11.png?raw=true" width="500" height="auto">
 
 At the same time, on the Serial Monitor you should see that the ESP is receiving the messages.
 
-
+<img src="https://github.com/ab0rahman/home-automation/blob/main/images/image3.png?raw=true" width="500" height="auto">
 
 If you try to interact with your bot from another account, you’ll get the the “Unauthorized user” message.
+<img src="https://github.com/ab0rahman/home-automation/blob/main/images/image8.png?raw=true" alt="proton search github" width="300" height="auto">
+
+
+
+# Collaborators
+  | |  |  |  |  |
+  | ------------- | ------------- | ------------- | ------------- | ------------- |
+  | Abdur Rahman | [GitHub](https://github.com/ab0rahman) | [Email](mailto:letsmail.him@gmail.com) | 
+  | Shayam Kumar | [Github](https://github.com/xenon-19) | [Email](mailto:bidawatnishiket@gmail.com) | 
+  | N.V.S.L Srija  | [GitHub](https://github.com/ankit-4129) | [Email](mailto:ankitsharma.rbt@gmail.com) | 
+  | N pravallika | [Github](https://github.com/parth-12) | [Email](mailto:parthsakariya12@icloud.com) |  
