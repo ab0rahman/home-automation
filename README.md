@@ -2,6 +2,8 @@
 # Home Automation using Telegram bot
 
 ## How the Code Works:
+Home automation using Telegram with NodeMCU involves controlling devices like lamps through text messages. NodeMCU, based on the ESP8266 Wi-Fi SoC, is used for this IoT project, integrating with the Telegram app for remote control. The system architecture includes GPIO pins for communication, and the Telegram Bot API handles user commands. The process involves setting up Telegram, installing the Telegram library in Arduino IDE, and coding to interpret commands and control hardware components. This method offers a user-friendly way to manage home automation via smartphones
+
 
 ## Installation
 
