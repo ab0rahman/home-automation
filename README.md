@@ -225,6 +225,6 @@ If you try to interact with your bot from another account, you’ll get the the 
   | |  |  |  |  |
   | ------------- | ------------- | ------------- | ------------- | ------------- |
   | Abdur Rahman | [GitHub](https://github.com/ab0rahman) | [Email](mailto:letsmail.him@gmail.com) | 
-  | Shayam Kumar | [Github](https://github.com/xenon-19) | [Email](mailto:bidawatnishiket@gmail.com) | 
-  | N.V.S.L Srija  | [GitHub](https://github.com/ankit-4129) | [Email](mailto:ankitsharma.rbt@gmail.com) | 
-  | N pravallika | [Github](https://github.com/parth-12) | [Email](mailto:parthsakariya12@icloud.com) |  
+  | Shayam Kumar | [Github]() | [Email](mailto:) | 
+  | N.V.S.L Srija  | [GitHub]() | [Email](mailto:) | 
+  | N pravallika | [Github]() | [Email](mailto:) |  
